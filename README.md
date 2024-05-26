@@ -1,31 +1,15 @@
 # DIO - Trilha .NET - API e Entity Framework
-www.dio.me
+Desafio de projeto para conclusão do bootcamp .NET developer fornecido pela [DIO](www.dio.me).
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+Para este desafio, foram utilizados os conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO para desenvolver um sistema de gerenciamento de tarefas utilizando Swagger, C# e SQL Server.
 
 ## Contexto
-Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
-
-Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
-
-A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
-
-A sua classe principal, a classe de tarefa, deve ser a seguinte:
+Foi solicitado aos alunos finalizarem um sistema que está pela metade de cadastramento de tarefas. 
+ 
+A classe principal, a classe de tarefa, deve ser a seguinte:
 
 ![Diagrama da classe Tarefa](diagrama.png)
-
-Não se esqueça de gerar a sua migration para atualização no banco de dados.
-
-## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
-
-
-**Swagger**
-
-
-![Métodos Swagger](swagger.png)
-
 
 **Endpoints**
 
@@ -55,4 +39,4 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+O código foi finalizado conforme solicitado e está dispónível no repositório. Este repositório será arquivado e caso deseje alterações ou conversar sobre o projeto, faça um Pull request ou entre com contato comigo via [LinkedIn](https://www.linkedin.com/in/hugo-cs-souza/).
